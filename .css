@@ -1,28 +1,56 @@
-body {
+.container {
     font-family:helvetica;  
-    font-size:rem;
-    width: 500px;
+    width:50%;
+    margin:auto;
+    background-color: white;
   }
-h1 {
+
+
+p{
     font-family: helvetica;
-    color: darkred;
+    font-size: 15 px;
+    color: black;
 }
-div{
-    align-self: center;
+
+h1 {
+    color: firebrick;
+    font-size: 40px;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
 }
-img{
+h2 {
+    color:firebrick;
+    font-size: 35px;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
+h3 {
+    color:black;
+    font-size: 30px;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
+h4 {
+    color: black;
+    font-size: 25px;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
+.foto1{
     width:100px;
     margin: center;
     display: block;
 }
-p{
-    font-family: helvetica;
-    font-size: 2rem;
-    color: black;
-}
+
 table{
     font-family: sans-serif;
-    font-size: small;
-    
-    
+    font-size: 10px;
+
+
+}
+
+.foto2{
+    width: 50px;
+    margin: right;
+
 }
