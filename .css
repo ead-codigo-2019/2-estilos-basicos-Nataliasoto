@@ -1,11 +1,28 @@
 body {
     font-family:helvetica;  
     font-size:rem;
+    width: 500px;
   }
 h1 {
     font-family: helvetica;
     color: darkred;
 }
+div{
+    align-self: center;
+}
 img{
     width:100px;
+    margin: center;
+    display: block;
+}
+p{
+    font-family: helvetica;
+    font-size: 2rem;
+    color: black;
+}
+table{
+    font-family: sans-serif;
+    font-size: small;
+    
+    
 }
